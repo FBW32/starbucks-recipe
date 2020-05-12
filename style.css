@@ -1,0 +1,20 @@
+body{
+    margin-left: 20px;
+    background-color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1,h2,h3{
+    color: chocolate;
+}
+
+ul{
+    font-size: larger;
+    color: darkslategray;
+}
+
+.ul{
+    list-style-type: circle;
+
+}
+ol{color: saddlebrown}
